@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Cristea Sorin-Gabriel
+- 👀 I’m interested in Software Development and Web Development
+- 📫 You can reach me at: cristeasgabriel@gmail.com
+- 🚀 My CV: https://docs.google.com/document/d/1EupeSQ6VIXp2syVYvcCyQP-Ez_yTBuzQpFnXcupxW5w/edit?usp=sharing
+- ☕ LinkedIn account: linkedin.com/in/sorin-gabriel-cristea-72265b18b
